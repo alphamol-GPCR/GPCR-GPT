@@ -48,3 +48,8 @@ Please ensure the 5000 port in you machine is available.
 
 ![image](static/figure_2.svg)
 <p align="center">Figure 2. A demo of knowledge graph.</p>
+
+
+## contact
+Shuguang Yuan
+shuguang.yuan@alphamol.com
