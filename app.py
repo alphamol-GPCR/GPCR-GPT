@@ -23,7 +23,7 @@ reationship_list=["Classifications","G proteins","effectors","tissues","function
 node_features_list=["wiki","uniprot_function","chembl_id","name","TTD_id","KEGG_id","GeneCard_name"]
 
 # open database
-graph = Graph("bolt://localhost:7687/", auth=("neo4j", "kangsijia-neo4j"))
+graph = Graph("bolt://localhost:7687/", auth=("neo4j", "*****"))
 matcher_n = NodeMatcher(graph)
 matcher_r = RelationshipMatcher(graph)
 
