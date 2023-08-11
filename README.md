@@ -12,11 +12,10 @@ In this study, we chose G protein-coupled receptor, an important Protein superfa
 
 ## installation
 
-We warmly welcome users to visit our application at http://95.179.227.12:5000. Due to network latency, we cannot guarantee that all users can access our website quickly. Therefore, the code and Neo4j database can be downloaded from our GitHub repository(https://github.com/shiyu-wangbyte/web-GPCRs), enabling users to install our application locally. This approach will provide users with the flexibility to use the application without relying solely on online access, ensuring a smoother user experience.
-For users who failed in installing neo4j can just skip this software and use app_without_neo4.py instead of app.py as the applicatoin.
+We warmly welcome users to visit our application at http://gpcr-gpt.alphamol.com. Due to network latency, we cannot guarantee that all users can access our website quickly. Therefore, the code and Neo4j database can be downloaded from our GitHub repository, enabling users to install our application locally. This approach will provide users with the flexibility to use the application without relying solely on online access, ensuring a smoother user experience.
 
 ```
-git clone https://github.com/shiyu-wangbyte/web-GPCRs.git
+git clone https://github.com/alphamol-GPCR/GPCR-GPT.git
 cd web-GPCRs
 ```
 
