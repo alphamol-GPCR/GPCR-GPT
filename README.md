@@ -2,6 +2,8 @@
 
 # web-GPCRs
 
+## Our code is only open source for academic users.
+
 ## INTRODUCTION
 
 This project shows the possibility of using the Knowledge graph to improve the ability to answer questions in the large language model. We try to use language models to automatically extract the information of relational triples in literature, and then convert these relational triples into Knowledge graph and use them to improve the ability of big language models to answer user questions in professional fields.
